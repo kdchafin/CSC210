@@ -1,0 +1,17 @@
+rows: 3
+cols: 1
+
+PLANT (0,0) banana
+PLANT (0,1) lily
+PLANT (0,2) garlic
+
+grow 1
+print
+cut (0,0)
+grow 1
+print
+harvest (0,2)
+grow 1
+print
+pick (0,1)
+print

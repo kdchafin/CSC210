@@ -1,0 +1,25 @@
+rows 5
+cols 5
+delay 1
+
+plant (0,0) rose
+plant (0,2) banana
+plant (0,4) tulip
+plant (1,1) garlic
+plant (1,3) tomato
+plant (2,0) oak
+plant (2,2) strawberry
+plant (2,4) willow
+plant (3,1) yam
+plant (3,3) lettuce
+plant (4,0) iris
+plant (4,2) pine
+plant (4,4) lily
+grow 1 flower
+grow 1 tree
+grow 1 berry
+grow 1 vegetable
+harvest
+cut
+grow 2
+pick
